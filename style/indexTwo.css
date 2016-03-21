@@ -1,0 +1,181 @@
+.one1UlTwo{
+  background-color: #444;
+  height: 30px;
+  margin-top: 60px;
+  color: white;
+}
+.one1UlTwo ul{
+  padding-top: 6px;
+  z-index: 10;
+}
+.one1UlTwo li{
+  float: left;
+  margin-left: 30px;
+  overflow: hidden;
+}
+.one2{
+	margin-top: -2px;
+}
+.oneTwoOne3{
+  position: absolute;
+  top: 460px; 
+}
+.one4{
+	width: 170px;
+	height: 300px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 22px;
+}
+/*幻灯片*/
+.focus{
+  height: 210px;
+  left: 13px;
+  margin-top: 20px;
+  overflow: hidden;
+  position: relative;
+  width: 600px;
+}
+.focus ul{
+  height:380px;
+  position:absolute;
+   margin:0;padding:0;
+ }
+.focus ul li{
+  float:left;
+  width:600px;
+  height:210px;
+  overflow:hidden;
+  position:relative;
+  background:#000;
+}
+.focus ul li div{
+  position:absolute;
+  overflow:hidden;
+}
+.focus .btnBg{
+  position:absolute;
+  width:600px;
+  height:20px;
+  bottom:0;
+  background:#000;
+}
+.focus .btn{
+  position:absolute;
+  width:780px;
+  height:10px;
+  padding:11px 10px;
+  right:0;
+  bottom:0;
+  text-align:right;
+}
+.focus .btn span{
+  display:inline-block;
+  _display:inline;
+  _zoom:1;
+  width:25px;
+  height:10px;
+  _font-size:0;
+  margin-left:5px;
+  cursor:pointer;
+  background:#fff;
+}
+.focus .btn span.on{
+  background:#fff;
+}
+.focus .preNext{
+  width:45px;
+  height:100px;
+  position:absolute;
+  top:47px;
+  background:url(../images/sprite.png) no-repeat 0 0;
+  cursor:pointer;
+}
+.focus .pre{
+  left:0;
+}
+.focus .next{
+  right:0;
+  background-position:right top;
+}
+/*tabs*/
+.tabs{
+  height: 210px;
+  margin-left: 6px;
+  margin-top: -42px;
+  width: 782px;
+}
+.tabsTitle{
+  border-bottom: 1px solid #999;
+  border-top: 1px solid #fff;
+  height: 50px;
+  margin-top: -10px;
+  padding-left: 530px;
+}
+.tabsTitle li{
+  float: left;
+  line-height: 30px;
+  margin-left: -1px;
+  height: 33px;
+  width: 56px;
+  text-align: center;
+}
+.titleCli{
+  background-color: #444;
+  border: 1px solid;
+  color: #fff;
+}
+.tabsImg{
+  margin-left: -45px;
+}
+.tabsImg li{
+  float: left;
+  margin-left: 5px;
+  margin-top: -15px;
+  box-shadow: 1px 1px 1px #999;
+}
+.tabsImg li:hover{
+  border:1px solid #ccc;
+}
+/*跑马灯*/
+.example {
+  height: 170px;
+  width: 168px;
+  font-size: 11px;
+  -moz-box-shadow: 1px 1px 5px #999;
+  -webkit-box-shadow: 1px 1px 5px #999;
+  box-shadow: 1px 1px 5px #999;
+  overflow: hidden;
+}
+.example .container {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.example .container li {
+  width: 170px;
+  margin: 0 0 0 5px;
+  padding: 5px 0 5px 0;
+  border-bottom: 1px dotted #999;
+}
+.example .container li:hover{
+  color: #2fa0ec;
+}
+.example .container li a.title{
+  color: red;
+}
+.container a{
+  color: #7b7b7b;
+}
+.JournalismHead{
+  background-color: #444;
+  color: white;
+  padding-left: 5px;
+  padding-top: 5px;
+  height: 30px;
+}
+/*--------------*/
+
+
+
+    
