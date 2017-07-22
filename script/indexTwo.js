@@ -51,7 +51,10 @@ $(function(){
     picTimer = setInterval(function() {
       showPics(index);
       index++;
-      if(index == len) {index = 0;}
+      if(index == len) {
+        $(".focus ul").css('left','0px');
+        index = 0;
+      }
     },4000); //此4000代表自动播放的间隔，单位：毫秒
   }).trigger("mouseleave");
   

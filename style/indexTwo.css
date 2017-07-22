@@ -1,37 +1,17 @@
-.one1UlTwo{
-  background-color: #444;
-  height: 30px;
-  margin-top: 60px;
-  color: white;
-}
-.one1UlTwo ul{
-  padding-top: 6px;
-  z-index: 10;
-}
-.one1UlTwo li{
-  float: left;
-  margin-left: 30px;
-  overflow: hidden;
-}
-.one2{
-	margin-top: -2px;
-}
 .oneTwoOne3{
-  position: absolute;
-  top: 460px; 
+  float: left;
 }
 .one4{
 	width: 170px;
-	height: 300px;
+	height: 172px;
 	float: left;
-	margin-top: 20px;
 	margin-left: 22px;
 }
 /*幻灯片*/
 .focus{
   height: 210px;
-  left: 13px;
-  margin-top: 20px;
+  left: 10px;
+  float: left;
   overflow: hidden;
   position: relative;
   width: 600px;
@@ -101,16 +81,13 @@
 /*tabs*/
 .tabs{
   height: 210px;
-  margin-left: 6px;
-  margin-top: -42px;
+  margin-left: 10px;
+  margin-top: 50px;
   width: 782px;
 }
 .tabsTitle{
   border-bottom: 1px solid #999;
-  border-top: 1px solid #fff;
-  height: 50px;
-  margin-top: -10px;
-  padding-left: 530px;
+  height: 35px;
 }
 .tabsTitle li{
   float: left;
@@ -121,30 +98,30 @@
   text-align: center;
 }
 .titleCli{
-  background-color: #444;
+  background-color: #999;
   border: 1px solid;
   color: #fff;
 }
 .tabsImg{
-  margin-left: -45px;
+  margin-top:2px;
+}
+.tabsImg ul{
+  width:780px;
 }
 .tabsImg li{
   float: left;
-  margin-left: 5px;
-  margin-top: -15px;
-  box-shadow: 1px 1px 1px #999;
+  margin-right: 5px;
 }
-.tabsImg li:hover{
-  border:1px solid #ccc;
+.tabsImg li:last-child{
+  margin-right:0;
 }
+
 /*跑马灯*/
 .example {
-  height: 170px;
+  height: 177px;
   width: 168px;
   font-size: 11px;
-  -moz-box-shadow: 1px 1px 5px #999;
-  -webkit-box-shadow: 1px 1px 5px #999;
-  box-shadow: 1px 1px 5px #999;
+  border:1px solid #999;
   overflow: hidden;
 }
 .example .container {
@@ -171,10 +148,9 @@
   background-color: #444;
   color: white;
   padding-left: 5px;
-  padding-top: 5px;
+  line-height:30px;
   height: 30px;
 }
-/*--------------*/
 
 
 

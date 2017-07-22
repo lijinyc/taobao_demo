@@ -122,7 +122,7 @@ $(function(){
                                                  +"'>&#xe63c;</i><div id='check' style='"
                                                                                   +'color:#c40000;'
                                                                                   +'font-size: 14px;'
-                                                                                  +'margin-left: 82px;'
+                                                                                  +'margin-left:69px;'
                                                                                   +'margin-top: 11px;'
                                                                                   +"'>请勾选您要的商品信息!</div>";
  
@@ -160,12 +160,12 @@ $(function(){
           $('#determine').remove();//先删除，防止重复出现
           var determine="<span id='determine' style='"
                                                     +'background:red;'
-                                                    +'border: 1px solid #c40000;'
+                                                    +'line-height: 28px;'
                                                     +'color: #fff;'
                                                     +'cursor: pointer;'
                                                     +'display: inline-block;'
                                                     +'height: 28px;'
-                                                    +'margin-left: 82px;'
+                                                    +'margin-left: 71px;'
                                                     +'margin-top: 9px;'
                                                     +'padding-top: 3px;'
                                                     +'text-align: center;'

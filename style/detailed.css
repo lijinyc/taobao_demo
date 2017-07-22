@@ -1,36 +1,37 @@
-.one1UlTwo{
-  background-color: #444;
-  height: 30px;
-  margin-top: 60px;
-  color: white;
-}
-.one1UlTwo ul{
-  padding-top: 6px;
-  z-index: 10;
-}
-.one1UlTwo li{
-  float: left;
-  margin-left: 30px;
-  overflow: hidden;
-}
+/*.one1UlTwo{*/
+  /*background-color: #444;*/
+  /*height: 30px;*/
+  /*margin-top: 60px;*/
+  /*color: white;*/
+/*}*/
+/*.one1UlTwo ul{*/
+  /*padding-top: 6px;*/
+  /*z-index: 10;*/
+/*}*/
+/*.one1UlTwo li{*/
+  /*float: left;*/
+  /*margin-left: 30px;*/
+  /*overflow: hidden;*/
+/*}*/
 .one2{
-  margin-top: 20px;
+  /*margin-top: 20px;*/
 }
 .one3{
   float: left;
   height: 450px;
-  margin-left: 23px;
-  margin-top: 20px;
-  width: 300px;
+  /*margin-left: 23px;*/
+  /*margin-top: 20px;*/
+  /*width: 330px;*/
 }
 .one3DivOne{
   height: 300px;
-  width: 300px;
-  margin-top: -15px;
+  width: 320px;
+  margin-left:10px;
+  /*margin-top: -15px;*/
 }
 .one3DivOne1Ul{
-  margin-left: -51px;
-  margin-top: -1px;
+  /*margin-left: -51px;*/
+  /*margin-top: -1px;*/
   list-style: none;
 }
 .one3DivOne1Ul li{
@@ -42,10 +43,10 @@
 }
 .one3DivTwo{
   height: 80px;
-  margin-top: 64px;
+  margin-top: 70px;
 }
 .one3DivTwo1Ul{
-  margin-left: -67px;
+  /*margin-left: -67px;*/
   list-style: none;
 }
 .buttonImgH{
@@ -69,8 +70,8 @@
 .one4{
   float: left;
   height: 450px;
-  margin-left: 22px;
-  margin-top: 20px;
+  margin-left: 10px;
+  /*margin-top: 20px;*/
   width: 448px;
 }
 .one4DivOne{
@@ -231,7 +232,7 @@
 .one4DivFiveUl{
   list-style: none;
   margin-top: -24px;
-  margin-left:30px;
+  margin-left:56px;
 }
 .one4DivFiveUl li{
   float: left;
@@ -256,7 +257,7 @@
 }
 .one4DivSixUl{
   list-style: none;
-  margin-left: 33px;
+  margin-left: 58px;
   margin-top: -28px;
 }
 .one4DivSixUl li{
@@ -307,8 +308,8 @@
 .one4DiveSeven_2{
     float: left;
     font-size: 13px;
-    margin-left: 201px;
-    margin-top: -29px;
+    margin-left: 187px;
+    margin-top: -35px;
 }
 .one4DiveEight{
   height: 50px;
@@ -353,7 +354,7 @@
     border: 1px solid #ccc;
     display: block;
     line-height: 26px;
-    margin-left: 83px;
+    margin-left: 69px;
     margin-top: -25px;
     text-align: center;
     vertical-align: top;
