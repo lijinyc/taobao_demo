@@ -19,6 +19,8 @@ h1 {
 }
 
 a {
+    text-decoration: none;
+    color: #fff;
     cursor: pointer;
 }
 
@@ -213,8 +215,8 @@ a {
     cursor: pointer;
 }
 
-.one1UlTwo li:hover, .commodityOne li:hover, .commodityTwo li:hover, .commodityThree li:hover {
-    color: #0082dc;
+.one1UlTwo li a:hover, .commodityOne li:hover, .commodityTwo li:hover, .commodityThree li:hover {
+    color: #0082dc !important;
 }
 
 .hot {
